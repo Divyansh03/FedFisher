@@ -1,0 +1,12 @@
+kornia==0.7.0
+lapsolver==1.1.0
+matplotlib==3.7.1
+nngeometry==0.3
+numpy==1.23.5
+Pillow==10.1.0
+POT==0.9.1
+scipy==1.11.4
+seaborn==0.13.0
+torch==2.1.0+cu118
+torchvision==0.16.0+cu118
+tqdm==4.66.1
