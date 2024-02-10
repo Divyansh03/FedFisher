@@ -32,7 +32,7 @@ Our results can be replicated by running the file `main.py`. The file takes the 
 An example of a command to run `main.py` is given below:
 
 ```bash
-python main.py --dataset 'FashionMNIST' --model 'LeNet' --local_epochs 10 --algs_to_run 'fedfisher_kfac' 'fedavg'              
+python main.py --dataset 'FashionMNIST' --model 'LeNet' --local_epochs 30 --algs_to_run 'fedfisher_kfac' 'fedavg'              
 ```
 
 
